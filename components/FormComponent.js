@@ -95,7 +95,7 @@ class Form extends Component {
                 <View style={styles.formRow}>
                 <Button
                     onPress={() => this.handleForm()}
-                    title="Reserve"
+                    title="Submit"
                     color="#0099ff"
 
                     />
